@@ -6,13 +6,13 @@ The process of arranging information in an effective and efficient manner so tha
 | Type |   |
 | --- |---|
 || <b>Concepts</b>|
+|Article| [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) by Bret Victor|
+|||
 |Book|  [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/) by Edward R. Tufte|
 |Book| [Seeing with Fresh Eyes: Meaning, Space, Data, Truth](https://www.amazon.com/Seeing-Fresh-Eyes-Meaning-Space/dp/1930824009) by Edward R. Tufte|
 |Book| [Envisioning Information](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118) by Edward R. Tufte|
 |Book| [Beautiful Evidence](https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177) by Edward R. Tufte |
 |Book| [Visual and Statistical Thinking: Displays of Evidence for Making Decisions](https://www.amazon.com/Visual-Statistical-Thinking-Displays-Decisions/dp/0961392134) by Edward R. Tufte|
-|||
-|Article| [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) by Bret Victor|
 || <b>Tutorials</b>|
 |Course|  [Building Custom Data Visualizations](https://frontendmasters.com/courses/d3-js-custom-charts/) by Shirley Wu|
 |Course|  [Data Visualization for React Developers](https://frontendmasters.com/courses/d3-js-react/) by Shirley Wu|
