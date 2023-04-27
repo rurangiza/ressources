@@ -25,6 +25,8 @@
 |Course|  [Data Visualization for React Developers](https://frontendmasters.com/courses/d3-js-react/) (Shirley Wu)|
 |Course|  [Introduction to D3.js](https://frontendmasters.com/courses/d3/) (Shirley Wu)|
 | Article | [An Introduction to d3.js](https://shirleywu.studio/d3intro/)|
+|| <br>Exemples</br>|
+|Article|[Waveforms](https://pudding.cool/2018/02/waveforms/) by Josh Comeau|
 
 
 
