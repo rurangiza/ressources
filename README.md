@@ -2,7 +2,7 @@
 
 
 ## Information Design
-The process of "arranging information in an effective and efficient manner so that it can be easily understood and used.
+The process of arranging information in an effective and efficient manner so that it can be easily understood and used.
 | Type |   |
 | --- |---|
 || <b>Concepts</b>|
@@ -11,6 +11,7 @@ The process of "arranging information in an effective and efficient manner so th
 |Book| [Envisioning Information](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118) by Edward R. Tufte|
 |Book| [Beautiful Evidence](https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177) by Edward R. Tufte |
 |Book| [Visual and Statistical Thinking: Displays of Evidence for Making Decisions](https://www.amazon.com/Visual-Statistical-Thinking-Displays-Decisions/dp/0961392134) by Edward R. Tufte|
+|||
 |Article| [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) by Bret Victor|
 || <b>Tutorials</b>|
 |Course|  [Building Custom Data Visualizations](https://frontendmasters.com/courses/d3-js-custom-charts/) by Shirley Wu|
@@ -18,7 +19,7 @@ The process of "arranging information in an effective and efficient manner so th
 |Course|  [Introduction to D3.js](https://frontendmasters.com/courses/d3/) by Shirley Wu|
 |Article| [An Introduction to d3.js](https://shirleywu.studio/d3intro/) by Shirley Wu|
 |Course|[Build beautiful data visualizations with D3](https://www.newline.co/fullstack-d3) by Amelia Wattenberger|
-|| <br>Exemples</br>|
+|| <b>Exemples</b>|
 |Article|[How do arrays work?](https://nan-archive.vercel.app/how-arrays-work) by Nanda Syahrasyad|
 |Article| [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) by Bartosz Ciechanowski|
 |Article|[Waveforms](https://pudding.cool/2018/02/waveforms/) by Josh Comeau|
@@ -37,8 +38,11 @@ Tools and technologies that enable people to think and create in new and powerfu
 | Video | [Seeing Spaces](https://www.youtube.com/watch?v=klTjiXjqHrQ) by Bret Victor|
 | Video | [Media for Thinking the Unthinkable](https://www.youtube.com/watch?v=oUaOucZRlmE) by Bret Victor|
 | Video | [Stop Drawing Dead Fish](https://www.youtube.com/watch?v=ZfytHvgHybA&t) by Bret Victor|
+|||
 |Book| [Tools for Thought: The History and Future of Mind-Expanding Technology](https://www.amazon.com/Tools-Thought-History-Mind-Expanding-Technology/dp/0262681153) by Howard Rheingold|
+|||
 |Article|[Tools for Thought as Cultural Practices, not Computational Objects](https://maggieappleton.com/tools-for-thought) by Maggie Appleton|
+|||
 |Paper|[Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/content/view/138) by Douglas Englebart|
 |Paper|[User Interface: A Personal View](http://worrydream.com/refs/Kay%20-%20User%20Interface,%20a%20Personal%20View.pdf)|
 |||
