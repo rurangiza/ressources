@@ -1,5 +1,14 @@
 # ressources
 
+## People & groups
+|Category||
+|---|---|
+|Companies|Notion, Vercel, The Browser Company, OpenAI, Spotify, Deezer, Figma|
+|Computer Pioneers|Douglas Englebart, Alan Kay, Vannevar Bush, J.C.R. Licklider, Ivan Sutherland, Jeff Raskin, Bill Atkinson, Andy Hertzfeld, Tony Fadell, Bret Victor, Jonathan Edwards, Chris Granger, Rich Hickey, Stephen Wolfram, John Carmack, Ted Nelson, Larry Tesler|
+|Information Designers|Bret Victor, Josh Comeau, Amelia Wattenberger, Delba, Shirley Wu|
+|UI Designers|[James McDonald](https://twitter.com/jamesm)(Tailwind Lab), [Rauno Freiberg](https://rauno.me/craft/nextjs)(Vercel)|
+|Artists|Bon Iver, James Blake, Tame Impala, Frank Ocean, Tyle the creator, Mylene Farmer, Kanye West, Flying Lotus, Drake, Kendrick Lamar|
+|Producers|Quincy Jones, Rod Temperton, Gamble and Huff, Noah 40 Shebib, Timbaland, Rick Rubin, Pharrell Williams, Max Martins, Mike Dean, Babyface|
 
 ## Information Design
 The process of arranging information in an effective and efficient manner so that it can be easily understood and used.
@@ -25,8 +34,6 @@ The process of arranging information in an effective and efficient manner so tha
 |Article|[Waveforms](https://pudding.cool/2018/02/waveforms/) by Josh Comeau|
 |Article|[Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/) by Shan Carter & Michael Nielsen|
 |Article|[Curated list of awesome explorable explanations](https://github.com/blob42/awesome-explorables) by blob42|
-|||
-|People| Bret Victor, Josh Comeau, Amelia Wattenberger, Delba, Shirley Wu|
 
 ## Tools for Thought
 Tools and technologies that enable people to think and create in new and powerful ways.
@@ -45,5 +52,4 @@ Tools and technologies that enable people to think and create in new and powerfu
 |||
 |Paper|[Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/content/view/138) by Douglas Englebart|
 |Paper|[User Interface: A Personal View](http://worrydream.com/refs/Kay%20-%20User%20Interface,%20a%20Personal%20View.pdf)|
-|||
-|People| Douglas Englebart, Alan Kay, Bret Victor|
+
