@@ -4,6 +4,7 @@
 |Category||
 |---|---|
 |Companies|Notion, Vercel, The Browser Company, OpenAI, Spotify, Deezer, Figma|
+|Design focused companies|[Vercel](https://vercel.com/?gad=1), [Linear](https://linear.app/), [The Browser Company](https://thebrowser.company/), [Notion](https://www.notion.so/product)|
 |Computer Pioneers|Douglas Englebart, Alan Kay, Vannevar Bush, J.C.R. Licklider, Ivan Sutherland, Jeff Raskin, Bill Atkinson, Andy Hertzfeld, Tony Fadell, Bret Victor, Jonathan Edwards, Chris Granger, Rich Hickey, Stephen Wolfram, John Carmack, Ted Nelson, Larry Tesler|
 |Information Designers|Bret Victor, Josh Comeau, Amelia Wattenberger, Delba, Shirley Wu|
 |UI Designers|[James McDonald](https://twitter.com/jamesm)(Tailwind Lab), [Rauno Freiberg](https://rauno.me/craft/nextjs)(Vercel)|
